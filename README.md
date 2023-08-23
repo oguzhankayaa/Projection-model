@@ -4,3 +4,4 @@ A python script that shows difference between the perspective and orthographic p
 
 You can change between perspectives by pressing 'p' and 'o'.
 You can change the distance by pressing   '+' and '-'.
+video link: https://youtu.be/jInUwzJ66nE
