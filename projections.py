@@ -4,7 +4,7 @@ import pygame
 import sys
 
 pygame.init()
-
+ 
 width, height = 600, 400
 screen = pygame.display.set_mode((width, height))
 clock = pygame.time.Clock()
